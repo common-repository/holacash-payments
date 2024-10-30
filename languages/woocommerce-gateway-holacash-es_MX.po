@@ -1,0 +1,221 @@
+# Copyright (C) 2022 HolaCash
+# This file is distributed under the same license as the WooCommerce HolaCash Payments plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce HolaCash Payments 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-"
+"gateway-holacash\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Mexico)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-01T12:16:42+00:00\n"
+"PO-Revision-Date: 2022-08-03 07:04+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: woocommerce-gateway-holacash\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.2; wp-6.0"
+
+#: includes/class-hola-cash-wc-gateway.php:374
+msgid "Awaiting for user action"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:366
+msgid "Awaiting for user authentication"
+msgstr ""
+
+#: includes/views/pending-payment-instructions.php:22
+msgid "Bank Name"
+msgstr "Banco de destino"
+
+#: includes/views/pending-payment-instructions.php:40
+msgid "Bar Code"
+msgstr ""
+
+#: includes/class-payments.php:241 includes/views/admin/hc-admin-capture.php:41
+msgid "Capture"
+msgstr ""
+
+#: includes/views/admin/hc-admin-capture.php:32
+msgid "Capture amount"
+msgstr ""
+
+#: includes/views/admin/hc-admin-capture.php:31
+msgid "Capture upto the order amount"
+msgstr ""
+
+#: includes/views/admin/hc-admin-capture.php:18
+msgid "Captured Total"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:61
+msgid "Card, cash & Transfer payments"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:258
+msgid "Debug"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:220
+msgid "Enable"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:262
+msgid "Enable Debug Mode"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:223
+msgid "Enable Hola.Cash"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:238
+msgid "Enable Test Mode"
+msgstr ""
+
+#: includes/views/pending-payment-instructions.php:26
+#: includes/views/pending-payment-instructions.php:48
+msgid "Expiry"
+msgstr "Fecha de expiración"
+
+#: includes/class-hola-cash-wc-gateway.php:60
+msgid "Hola.Cash"
+msgstr ""
+
+#: includes/views/hola-cash-admin-settings.php:11
+msgid "Hola.Cash options"
+msgstr ""
+
+#. Author of the plugin
+msgid "HolaCash"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "HolaCash Payments"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/holacash-payments/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.hola.cash/"
+msgstr ""
+
+#: includes/views/pending-payment-instructions.php:55
+msgid "Instructions: "
+msgstr "Instrucciones: "
+
+#: includes/class-payments.php:88
+msgid "Payment Instructions"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:247
+msgid "Private API Key"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:242
+msgid "Public API Key"
+msgstr ""
+
+#. translators: %s is replaced with String Name
+#: includes/class-payments.php:74
+msgid "Purchase on %s"
+msgstr ""
+
+#. Description of the plugin
+msgid "Receive payments using hola.cash's checkout widget"
+msgstr ""
+
+#: includes/class-hola-cash-wc-api.php:413
+msgid "Receiving pending notification from webhook"
+msgstr ""
+
+#: includes/class-hola-cash-wc-api.php:227
+msgid "Refunded from merchant portal"
+msgstr ""
+
+#: includes/class-hola-cash-wc-api.php:154
+msgid "Request contains an invalid signature string"
+msgstr ""
+
+#: includes/class-hola-cash-wc-api.php:123
+msgid "Request must need a signature"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:235
+msgid "Test Mode"
+msgstr ""
+
+#. translators: %1$s: plugin mode live|sandbox
+#: includes/class-hola-cash-wc-gateway.php:153
+msgid ""
+"The \"Public Key\" should start with \"pub_%1$s\", enter the correct key."
+msgstr ""
+
+#. translators: %1$s: plugin mode live|sandbox
+#: includes/class-hola-cash-wc-gateway.php:172
+msgid ""
+"The \"Secret Key\" should start with \"skt_%1$s\", enter the correct key."
+msgstr ""
+
+#. translators: %1$s: plugin mode live|sandbox
+#: includes/class-hola-cash-wc-gateway.php:191
+msgid ""
+"The \"Webhook Key\" should start with \"whk_%1$s\", enter the correct key."
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:255
+msgid "This can be configured in your hola.cash portal"
+msgstr ""
+
+#: includes/views/render-widget.php:12
+msgid "This method is unavailable currently"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:228
+msgid "Title"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:236
+msgid ""
+"To create a trial account (  sandbox  ) <a href='https://developers.holacash."
+"mx/access/en'>click here</a>"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:221
+msgid ""
+"To create an account send us a message and you we will respond as soon as "
+"possible"
+msgstr ""
+
+#: includes/class-hola-cash-wc-gateway.php:229
+msgid "To update payment method title in checkout page"
+msgstr ""
+
+#: includes/views/pending-payment-instructions.php:18
+msgid "Transaction CLABE"
+msgstr "CLABE"
+
+#: includes/views/pending-payment-instructions.php:14
+#: includes/views/pending-payment-instructions.php:36
+msgid "Transaction ID"
+msgstr ""
+
+#: includes/views/pending-payment-instructions.php:44
+msgid "Transaction Reference"
+msgstr "Número de referencia para tienda"
+
+#: includes/class-hola-cash-wc-gateway.php:252
+msgid "Webhook Key"
+msgstr ""
+
+#: includes/class-hola-cash-wc-api.php:302
+msgid "Webhook received for pending capture status"
+msgstr ""
+
+#. translators: %1$s: woocommerce logs url
+#: includes/class-hola-cash-wc-gateway.php:260
+msgid "Whether to log the event or not. <a href=\"%1$s\">View Logs -></a>"
+msgstr ""

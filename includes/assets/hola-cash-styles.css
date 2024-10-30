@@ -1,0 +1,6 @@
+.hola-cash-selected #place_order {
+	display: none !important;
+}
+.hc_informative_alert {
+	color: red;
+}
